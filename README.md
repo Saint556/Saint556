@@ -1,9 +1,11 @@
 ### Hi there 👋
-
+ Hi there,you've reach one of the normal and insanely mundane indiviual ever existed in this world.
+ 🌱 I’m currently learning C code and lua scripting,tho it doesn't look like much but i guess im trying my best.
+ 😄 Pronouns: He/Him
 <!--
 **Saint556/Saint556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Hi there,you've reach one of the normal and insanely mundane indiviual ever existed in this world.
+
 
 
 - 🔭 I’m currently working on ...
